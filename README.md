@@ -1,3 +1,5 @@
+(DISCONTINUED)
+
 # **intc16_t** v.3
 ### created & started at 30/10/2025
 
